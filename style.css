@@ -19,6 +19,7 @@ padding: 10px;
  }
   
  .primeiro_paragráfo{
-   border: 2px solid  blueviolet; 
+   border: 2px solid  rgb(26, 70, 216); 
    border-radius:5px ;
+   width:50% ;
  }
